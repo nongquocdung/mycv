@@ -1,0 +1,54 @@
+.projects {
+  margin-top: 5%;
+}
+
+.projects-list {
+  margin: 10% 8%;
+}
+
+.project-container {
+  margin: 12% 3%;
+}
+
+.project-title {
+  display: flex;
+  align-items: center;
+}
+
+.project-name {
+  color: #aefeff;
+  flex: 1;
+  font-weight: 900;
+  font-size: 2vh;
+}
+
+.project-time {
+  font-style: italic;
+}
+
+.role {
+}
+
+li.group:before {
+  content: "\f0c0"; /* FontAwesome Unicode */
+  font-family: FontAwesome;
+  display: inline-block;
+  margin-left: -1.3em; /* same as padding-left set on li */
+  width: 1.3em; /* same as padding-left set on li */
+}
+
+li.tech:before {
+  content: "\f16c"; /* FontAwesome Unicode */
+  font-family: FontAwesome;
+  display: inline-block;
+  margin-left: -1.3em; /* same as padding-left set on li */
+  width: 1.3em; /* same as padding-left set on li */
+}
+
+li.details:before {
+  content: "\f02d"; /* FontAwesome Unicode */
+  font-family: FontAwesome;
+  display: inline-block;
+  margin-left: -1.3em; /* same as padding-left set on li */
+  width: 1.3em; /* same as padding-left set on li */
+}

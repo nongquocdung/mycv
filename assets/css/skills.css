@@ -1,0 +1,66 @@
+.skills {
+  margin-top: 10%;
+}
+
+.skills-list {
+  margin: 10% 8%;
+}
+
+.skill-container {
+  width: 90%;
+  aspect-ratio: 1 / 0.000000005;
+  background-color: #ddd;
+}
+
+.skill {
+  display: inline-block;
+  text-align: right;
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  color: white;
+}
+
+.html {
+  width: 65%;
+  background-color: #383838;
+}
+.css {
+  width: 60%;
+  background-color: #383838;
+}
+.js {
+  width: 70%;
+  background-color: #383838;
+}
+.java {
+  width: 80%;
+  background-color: #383838;
+}
+.mysql {
+  width: 80%;
+  background-color: #383838;
+}
+.android-dev {
+  width: 60%;
+  background-color: #383838;
+}
+.git {
+  width: 60%;
+  background-color: #383838;
+}
+.teamwork {
+  width: 75%;
+  background-color: #066163;
+}
+.problem-solving {
+  width: 70%;
+  background-color: #066163;
+}
+.creativity {
+  width: 65%;
+  background-color: #066163;
+}
+.adaptability {
+  width: 80%;
+  background-color: #066163;
+}
